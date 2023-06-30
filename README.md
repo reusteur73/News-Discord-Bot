@@ -8,3 +8,5 @@ This bot is for personal use, only my friends discord server will be used for th
 The goal is to send 5 random recent articles twice a day (morning, evening), with the link leading to them.
 
 ## I will improve the code, but impossible to do tests given the restriction of the api
+
+![Exemple](webhook.PNG)
